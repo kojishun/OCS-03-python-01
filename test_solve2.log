@@ -1,0 +1,11 @@
+test_1real (test_solve2.Testsolve2) ... ok
+test_2complexesAeqOne (test_solve2.Testsolve2) ... ok
+test_2realsAeqOne (test_solve2.Testsolve2) ... ok
+test_2realsAneOne (test_solve2.Testsolve2) ... ok
+test_2reals_conjAeqOne (test_solve2.Testsolve2) ... ok
+test_2reals_conjAneOne (test_solve2.Testsolve2) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.001s
+
+OK
